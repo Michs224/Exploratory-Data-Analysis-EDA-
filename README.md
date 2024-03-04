@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-EDA-
+# EDA Repository: Collection of My Exploratory Data Analyses
